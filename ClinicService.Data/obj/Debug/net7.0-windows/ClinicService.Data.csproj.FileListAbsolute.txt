@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\bin\Debug\net7.0-windows\ClinicService.Data.deps.json
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\bin\Debug\net7.0-windows\ClinicService.Data.dll
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\bin\Debug\net7.0-windows\ClinicService.Data.pdb
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.sourcelink.json
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.dll
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\refint\ClinicService.Data.dll
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ClinicService.Data.pdb
+C:\Users\User\Documents\Учебка\Архитектура ПО\lesson10\ClinicService\ClinicService.Data\obj\Debug\net7.0-windows\ref\ClinicService.Data.dll
